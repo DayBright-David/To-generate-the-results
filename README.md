@@ -1,1 +1,1 @@
-# To-protect-my-idea-and-code
+# Results generate codes (acc, itr)
